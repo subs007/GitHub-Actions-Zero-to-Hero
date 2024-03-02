@@ -1,4 +1,3 @@
-# this is for testing
 # app.py
 # This is a test commit
 def add(a, b):
